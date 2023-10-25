@@ -1,0 +1,22 @@
+/* external css */
+.div1{
+    background-color: rgb(18, 19, 17);
+}
+
+.div2{
+    background-color: greenyellow;
+    max-width: 200px;
+    max-height: 500px;
+}
+
+.div3{
+    background-color: blueviolet;
+    max-width: 200px;
+    max-height: 500px;
+}
+
+.div4{
+    background-color: cadetblue;
+    max-width: 200px;
+    max-height: 500px;
+}

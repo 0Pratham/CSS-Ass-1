@@ -1,0 +1,21 @@
+.first-name{
+    background-color: aqua;
+}
+
+.last-name{
+    background-color: aqua;
+}
+
+.e-mail{
+    background-color: grey;
+}
+
+.num{
+    background-color: blueviolet;
+}
+
+.sub{
+    color: rgb(175, 113, 37);
+    font-weight: 100;
+    opacity: 50%;
+}
